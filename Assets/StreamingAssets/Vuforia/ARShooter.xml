@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="GunCyber" size="0.080000 0.306263" />
+    <ImageTarget name="TargetSite3" size="0.130000 0.121875" />
+    <ImageTarget name="TargetSite2" size="1.000000 1.041494" />
+    <ImageTarget name="GunRemote" size="1.000000 2.133062" />
+  </Tracking>
+</QCARConfig>
